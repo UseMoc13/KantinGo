@@ -1,6 +1,8 @@
 # KantinGo
 
-KantinGo adalah platform digital pemesanan makanan yang dirancang untuk mengatasi masalah antrean panjang di kantin, keterbatasan waktu istirahat, dan sulitnya akses makanan di lingkungan kampus maupun perkantoran. Melalui fitur pick-up tanpa antre, pengantaran dalam gedung, dan rekomendasi makanan, KantinGo membantu pengguna mendapatkan makanan dengan lebih cepat dan nyaman, sekaligus mendukung pelaku usaha makanan dalam memperluas jangkauan penjualan secara digital.
+KantinGo adalah platform digital pemesanan makanan yang dirancang untuk menjawab berbagai permasalahan yang sering terjadi di lingkungan kampus dan perkantoran. Pada jam makan siang, pengguna sering menghadapi antrean panjang di kantin, keterbatasan waktu istirahat, serta kesulitan mengakses makanan, terutama bagi mereka yang berada di gedung bertingkat atau lokasi yang jauh dari area kantin. Kondisi ini membuat waktu istirahat menjadi kurang efektif dan mengurangi kenyamanan dalam memenuhi kebutuhan makan sehari-hari.
+
+Untuk mengatasi permasalahan tersebut, KantinGo menyediakan sistem pemesanan makanan secara online yang memungkinkan pengguna memesan makanan terlebih dahulu dan mengambilnya melalui layanan pick-up tanpa antre. Selain itu, KantinGo juga menawarkan layanan pengantaran dalam gedung sehingga pengguna dapat menerima pesanan langsung di lokasi mereka tanpa harus meninggalkan aktivitas utama. Platform ini juga dilengkapi dengan fitur rekomendasi makanan berbasis kecerdasan buatan (AI) yang memberikan saran menu sesuai preferensi dan kebiasaan pengguna. Tidak hanya memberikan kemudahan bagi pelanggan, KantinGo juga membantu pelaku usaha makanan dan kantin dalam memperluas jangkauan penjualan melalui digitalisasi layanan dan peningkatan efisiensi operasional.
 
 # Prototype
 
